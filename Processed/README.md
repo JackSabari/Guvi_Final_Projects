@@ -116,7 +116,7 @@ warnings.simplefilter('ignore')
        
 ![Screenshot](https://github.com/JackSabari/Guvi_Final_Projects/blob/main/Processed/Screenshots/After_outliers.png)
 
-#Machine Learning
+## Machine Learning
 
 1. This dataset is classifier model dataset
 2. Implement the Random Forest Classifier
@@ -136,7 +136,7 @@ warnings.simplefilter('ignore')
 6. Implement the Gradient Boosting Classifier     
 7. XGB has good score after parameter tuning, but didn't break the Random Forest score.
 
-#Conclusion
+## Conclusion
 
 The most contributing and important feature is "dur". Roc curve, accuracy score, confusion_matrix, classification report said that random forest is better than Gradient Boosting and logistic regression.
 
