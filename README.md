@@ -148,3 +148,10 @@ Accuracy score of Gradient Boosting : 94%
 Accuracy score of Logistics Regression : 80%
 
 The Random Forest model is fitted to this dataset.
+
+
+## Support
+
+  **E-Mail   : jacksabari999@gmail.com**
+  
+  **LinkedIn : https://www.linkedin.com/in/sabarinathan-j-218a11205/**
