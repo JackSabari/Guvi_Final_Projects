@@ -26,19 +26,14 @@ It is not sufficient to just fit a model - the model must be analyzed to find th
 
 ## Tech Stack
 
-![Logo](https://www.python.org/static/img/python-logo@2x.png)
+<img align="left" alt="Coding" width=250 src="https://www.python.org/static/img/python-logo@2x.png">
+<img align="left" alt="Coding" width=250 src="https://www.analyticsvidhya.com/blog/wp-content/uploads/2015/01/scikit-learn-logo.png">
+<img align="left" alt="Coding" width=250 src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
+<img align="left" alt="Coding" width=355 src="https://matplotlib.org/_static/images/logo_dark.svg">
+<img align="left" alt="Coding" width=250 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png">
+<img align="left" alt="Coding" width=250 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_VfYfuw4JGQC0QLtbrhWyAQgW9qD9fXanG34lWGAyI1y34PxtAPagPNkCTAoX7_x7sFw&usqp=CAU">
+<img align="left" alt="Coding" width=250 src="https://mljar.com/images/machine-learning/xgboost_v2.png">
 
-![Logo](https://www.analyticsvidhya.com/blog/wp-content/uploads/2015/01/scikit-learn-logo.png)
-
-![Logo](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg)
-
-![Logo](https://matplotlib.org/_static/images/logo_dark.svg)
-
-![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png)
-
-![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_VfYfuw4JGQC0QLtbrhWyAQgW9qD9fXanG34lWGAyI1y34PxtAPagPNkCTAoX7_x7sFw&usqp=CAU)
-
-![Logo](https://mljar.com/images/machine-learning/xgboost_v2.png)
 
 ![Logo](https://www.fullstackpython.com/img/logos/scipy.png)
 
