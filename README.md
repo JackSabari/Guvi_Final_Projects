@@ -13,15 +13,16 @@ You are working for a new-age insurance company and employ multiple outreach pla
 
 ● y - has the client subscribed to the insurance?
 
-**Minimum Requirements**
+**Minimum Requirements :**
 
 It is not sufficient to just fit a model - the model must be analysed to find the important factors that contribute towards the price. AUROC must be used as a metric to evaluate the performance of the models
 
 
 ## Author
 
-- [@jacksabari](https://github.com/JackSabari)
+- [@Sabarinathan](https://github.com/JackSabari)
 
+**Batch - D42**
 
 ## Tech Stack
 
